@@ -8,7 +8,8 @@
 | git log       | 檢查工作紀錄        |
 
 出現下列錯誤：
-fatal: remote origin already exists.
+-----------
+**fatal: remote origin already exists.**
 解決方法：
 先執行底下指令刪除，再重新執行「$ git remote add origin...」。
-代碼: 選擇全部$ git remote rm origin
+$ git remote rm origin
