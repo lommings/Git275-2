@@ -1,20 +1,5 @@
-# NTU GIT CLASS EXERCISE 2
-
-Name
-----
-**Pearl Huang**
-
-Date
-----
-11/06/2016
-
-Github Username
----------------
-**looming**
-
-My Favorite Programming Language
---------------------------------
-1. Rails
-2. c++
-3. Html
-4. CSS
+| git 指令       | 功能              |
+| ------------- |:-----------------:|
+| git add       | 把檔案放置 staging  |
+| git commit    | 把 staged 檔案放置  |
+| git status    | 檢查工作路徑目前的狀態|
