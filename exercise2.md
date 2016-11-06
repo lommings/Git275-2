@@ -2,4 +2,6 @@
 
 Hello World in my favorite language:**C++**
 ----
+``` c++
 printf("Hello World");
+``` 
